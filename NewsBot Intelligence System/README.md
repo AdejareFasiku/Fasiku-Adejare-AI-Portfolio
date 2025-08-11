@@ -37,8 +37,8 @@ This project implements a comprehensive Educational Content Process Automation A
 
 1. **Clone or download the project files**
    ```bash
-   git clone <repository-url>
-   cd educational-automation-agent
+   git clone https://github.com/AdejareFasiku/Fasiku-Adejare-AI-Portfolio.git
+   cd NewsBot Intelligence System
    ```
 
 2. **Install dependencies**
