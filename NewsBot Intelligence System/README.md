@@ -139,7 +139,6 @@ results = trainer.train_agent(num_episodes=50, students=students)
 
 ### Run the Test Suite
 ```bash
-cd tests
 python test_agent.py
 ```
 
@@ -184,10 +183,7 @@ educational-automation-agent/
 ├── FN_Code_AdejareFasiku_Fasiku_ITAI2376.ipynb # Jupyter notebook
 ├── README.md                                    # This file
 ├── requirements.txt                             # Python dependencies
-├── docs/
-│   └── ARCHITECTURE.md                         # Detailed architecture
-├── tests/
-│   └── test_agent.py                          # Test suite
+├── test_agent.py                                # Test suite
 └── FN_Final_Report_AdejareFasiku_Fasiku_ITAI2376.md # Final report
 ```
 
@@ -195,8 +191,8 @@ educational-automation-agent/
 
 This is a capstone project for ITAI2376. For questions or suggestions:
 - Student: Adejare Fasiku
-- Course: ITAI2376 - Capstone Project
-- Institution: [Your Institution]
+- Email: adejare.fasiku@gmail.com
+
 
 ## License
 
@@ -211,6 +207,5 @@ This project is developed for educational purposes as part of the ITAI2376 capst
 
 ---
 
-**Project Status**: ✅ Completed Successfully  
 **Last Updated**: August 7, 2025  
 **Version**: 1.0.0
