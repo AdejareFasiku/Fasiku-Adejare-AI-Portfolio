@@ -7,7 +7,7 @@ This page summarizes portfolio projects with brief descriptions and direct links
 NewsBot Intelligence System
 - Summary: Automates news ingestion, preprocessing, and classification using TF‑IDF with SVM/LogReg baselines. Includes scraping utilities, clean pipelines, and evaluated results.
 - Links: 
-  - Project folder: ./Fasiku-Adejare-AI-Portfolio/NewsBot-Intelligence/
+  - Project folder: [https://github.com/AdejareFasiku/Fasiku-Adejare-AI-Portfolio.git/](https://github.com/AdejareFasiku/Fasiku-Adejare-AI-Portfolio/tree/cf5572ec9c95a1d511d6bf7f041a892266c854aa/NewsBot%20Intelligence%20System)
   - README: ./Fasiku-Adejare-AI-Portfolio/NewsBot-Intelligence/README.md
   - Notebook: ./Fasiku-Adejare-AI-Portfolio/NewsBot-Intelligence/notebooks/newsbot_workflow.ipynb
   - Open in Colab: https://colab.research.google.com/github/<your-username>/<repo-name>/blob/main/NLP-ITAI2373/NewsBot-Intelligence/notebooks/newsbot_workflow.ipynb
