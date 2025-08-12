@@ -21,15 +21,15 @@
 
 # %%
 # Install required packages
-!pip install -q langchain langchain-community langchain-openai
-!pip install -q openai tiktoken
-!pip install -q numpy pandas matplotlib seaborn plotly
-!pip install -q scikit-learn torch transformers
-!pip install -q redis-py pymongo
-!pip install -q requests beautifulsoup4
-!pip install -q pytest pytest-asyncio
-!pip install -q python-dotenv
-!pip install -q sentence-transformers faiss-cpu
+# !pip install -q langchain langchain-community langchain-openai
+# !pip install -q openai tiktoken
+# !pip install -q numpy pandas matplotlib seaborn plotly
+# !pip install -q scikit-learn torch transformers
+# !pip install -q redis-py pymongo
+# !pip install -q requests beautifulsoup4
+# !pip install -q pytest pytest-asyncio
+# !pip install -q python-dotenv
+# !pip install -q sentence-transformers faiss-cpu
 
 # %% [markdown]
 # ## Configuration and Constants
