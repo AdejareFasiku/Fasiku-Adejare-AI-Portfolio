@@ -8,7 +8,6 @@ Student: Adejare Fasiku
 import unittest
 import sys
 import os
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from datetime import datetime
 from FN_Code_AdejareFasiku_Fasiku_ITAI2376 import *
