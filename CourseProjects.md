@@ -10,7 +10,7 @@ NewsBot Intelligence System
   - Project folder: [./Fasiku-Adejare-AI-Portfolio/NewsBot-Intelligence](https://github.com/AdejareFasiku/Fasiku-Adejare-AI-Portfolio/tree/cf5572ec9c95a1d511d6bf7f041a892266c854aa/NewsBot%20Intelligence%20System)
   - README: [./Fasiku-Adejare-AI-Portfolio/NewsBot-Intelligence/README.md ](https://github.com/AdejareFasiku/Fasiku-Adejare-AI-Portfolio/blob/01587a9634632cc39f463f582e5cbfe14ee9f18d/NewsBot%20Intelligence%20System/README.md)
   - Notebook: [./Fasiku-Adejare-AI-Portfolio/NewsBot-Intelligence/newsbot_workflow.ipynb](https://github.com/AdejareFasiku/Fasiku-Adejare-AI-Portfolio/blob/01587a9634632cc39f463f582e5cbfe14ee9f18d/NewsBot%20Intelligence%20System/FN_Code_AdejareFasiku_Fasiku_ITAI2376.ipynb)
-  - Open in Colab: https://colab.research.google.com/github/AdejareFasiku/Fasiku-Adejare-AI-Portfolio/blob/01587a9634632cc39f463f582e5cbfe14ee9f18d/NewsBot%20Intelligence%20System/FN_Code_AdejareFasiku_Fasiku_ITAI2376.ipynb
+  - Open in Colab: [./colab.google.com/Fasiku-Adejare-AI-Portfolio/NewsBot-Intelligence/newsbot_workflow.ipynb](https://colab.research.google.com/github/AdejareFasiku/Fasiku-Adejare-AI-Portfolio/blob/01587a9634632cc39f463f582e5cbfe14ee9f18d/NewsBot%20Intelligence%20System/FN_Code_AdejareFasiku_Fasiku_ITAI2376.ipynb)
 
 Emotion Detection from Speech and Text
 - Summary: Detects emotions from short utterances by combining audio features (librosa) and text features (TF‑IDF). Trains classical models and reports macro‑F1 with confusion matrices.
