@@ -2715,7 +2715,7 @@ final_report = generate_final_report()
 print(final_report)
 
 # Save report to file
-with open('/home/ubuntu/FN_Final_Report_AdejareFasiku_Fasiku_ITAI2376.md', 'w') as f:
+with open('FN_Final_Report_AdejareFasiku_Fasiku_ITAI2376.md', 'w') as f:
     f.write(final_report)
 
 print(f"\n{'=' * 80}")
